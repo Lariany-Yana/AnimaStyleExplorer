@@ -1,0 +1,15 @@
+[project]
+name = "animastyleexplorer"
+description = "The extension opens a window containing the Anima Style Explorer website by ThetaCursed"
+version = "1.0"
+license = {file = "LICENSE"}
+
+[project.urls]
+Repository = "https://github.com/Lariany-Yana/AnimaStyleExplorer"
+#  Used by Comfy Registry https://registry.comfy.org
+
+[tool.comfy]
+PublisherId = "larianyana"
+DisplayName = "AnimaStyleExplorer"
+Icon = "https://raw.githubusercontent.com/Lariany-Yana/AnimaStyleExplorer/1a122af520947313a3adc72f52d9289e76090a13/web/img/Icon.webp"
+Banner = "https://raw.githubusercontent.com/Lariany-Yana/AnimaStyleExplorer/1a122af520947313a3adc72f52d9289e76090a13/web/img/Banner.webp"

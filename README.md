@@ -10,6 +10,10 @@ The extension opens a window containing the website https://animastyles.thetacur
 cd ComfyUI/custom_nodes
 git clone https://github.com/Lariany-Yana/AnimaStyleExplorer.git
 ```
+OR
+```bash
+comfy node install animastyleexplorer
+```
 
 ### Usage
 Simply click the icon in the sidebar, and a web page will open.
